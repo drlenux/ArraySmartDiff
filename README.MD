@@ -1,9 +1,9 @@
 # Array Smart Diff
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/drlenux/array-smart-diff.svg)](https://packagist.org/packages/drlenux/array-smart-diff)
-[![Total Downloads](https://img.shields.io/packagist/dt/drlenux/array-smart-diff.svg)](https://packagist.org/packages/drlenux/array-smart-diff)
+[![Latest Stable Version](https://img.shields.io/packagist/v/noname/array-smart-diff.svg)](https://packagist.org/packages/noname/array-smart-diff)
+[![Total Downloads](https://img.shields.io/packagist/dt/noname/array-smart-diff.svg)](https://packagist.org/packages/noname/array-smart-diff)
 [![Build Status](https://travis-ci.org/drlenux/ArraySmartDiff.svg?branch=master)](https://travis-ci.org/drlenux/ArraySmartDiff)
-[![php version](https://img.shields.io/packagist/php-v/drlenux/array-smart-diff.svg)](https://packagist.org/packages/drlenux/array-smart-diff)
+[![php version](https://img.shields.io/packagist/php-v/noname/array-smart-diff.svg)](https://packagist.org/packages/noname/array-smart-diff)
 [![scrutinizer](https://scrutinizer-ci.com/g/drlenux/ArraySmartDiff/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/drlenux/ArraySmartDiff/?branch=master)
 
 Author: `DrLenux`

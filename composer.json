@@ -7,6 +7,9 @@
             "email": "drlenux@gmail.com"
         }
     ],
+    "require": {
+        "php": ">=5.5"
+    },
     "require-dev": {
         "phpunit/phpunit": "^8.1"
     },
