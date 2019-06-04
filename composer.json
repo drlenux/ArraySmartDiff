@@ -1,0 +1,17 @@
+{
+    "name": "noname/array-smart-diff",
+    "authors": [
+        {
+            "name": "DrLenux",
+            "email": "drlenux@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "DrLenux\\ArraySmartDiff\\": "src/"
+        }
+    }
+}
