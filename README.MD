@@ -5,6 +5,7 @@
 [![Build Status](https://travis-ci.org/drlenux/ArraySmartDiff.svg?branch=master)](https://travis-ci.org/drlenux/ArraySmartDiff)
 [![php version](https://img.shields.io/packagist/php-v/drlenux/array-smart-diff.svg)](https://packagist.org/packages/drlenux/array-smart-diff)
 [![scrutinizer](https://scrutinizer-ci.com/g/drlenux/ArraySmartDiff/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/drlenux/ArraySmartDiff/?branch=master)
+[![scrutinizer](https://scrutinizer-ci.com/g/drlenux/ArraySmartDiff/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/g/drlenux/ArraySmartDiff/?branch=master)
 
 Author: `DrLenux`
 
